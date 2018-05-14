@@ -10,3 +10,8 @@
 {
 	background-color: rgb(4,25,34);
 }
+
+html *
+{
+	color:white;
+}
