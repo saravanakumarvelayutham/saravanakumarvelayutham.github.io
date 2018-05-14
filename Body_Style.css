@@ -15,3 +15,8 @@ html *
 {
 	color:white;
 }
+
+.navbar-brand
+{
+	color:rgb(102, 255, 51);
+}
